@@ -158,13 +158,16 @@ Navigate to `https://wandb.ai/aashoksai306-jeppiaar-engineering-college/huggingf
 
 ---
 
-## **Model Performance**
+### **Model Performance**
 
 Below are the graphs depicting the model's training and evaluation performance:
 
-![Training vs Validation Accuracy](![Screenshot 2024-09-28 142825](https://github.com/user-attachments/assets/3659c181-f677-4b2d-98d9-d57ff5adcc9d))
+#### **Training vs Validation Accuracy:**
+![Training vs Validation Accuracy](https://github.com/user-attachments/assets/3659c181-f677-4b2d-98d9-d57ff5adcc9d)
 
-![Wandb and MLflow Performance Metrics](![Screenshot 2024-09-28 221141](https://github.com/user-attachments/assets/0236eb5b-58dc-4996-8e5c-e35c805537cb))
+#### **Wandb and MLflow Performance Metrics:**
+![Wandb and MLflow Performance Metrics](https://github.com/user-attachments/assets/0236eb5b-58dc-4996-8e5c-e35c805537cb)
+
 
 ### **MLflow Model Staleness Check:**
 When the **wandbai** dashboard detects staleness, a notification is sent, and the model is retrained. Below is an example of a stale model retraining cycle.

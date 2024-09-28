@@ -164,7 +164,7 @@ Below are the graphs depicting the model's training and evaluation performance:
 
 ![Training vs Validation Accuracy](./images/training_validation_accuracy.png)
 
-![Wandb and MLflow Performance Metrics](./images/performance_metrics.png)
+![Wandb and MLflow Performance Metrics](![Screenshot 2024-09-28 221141](https://github.com/user-attachments/assets/0236eb5b-58dc-4996-8e5c-e35c805537cb))
 
 ### **MLflow Model Staleness Check:**
 When the **wandbai** dashboard detects staleness, a notification is sent, and the model is retrained. Below is an example of a stale model retraining cycle.
